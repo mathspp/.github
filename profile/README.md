@@ -1,1 +1,1 @@
-GitHub organisation for my project “mathspp”.
+GitHub organisation for my project “[mathspp](https://mathspp.com)”.
