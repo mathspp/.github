@@ -1,3 +1,3 @@
 GitHub organisation for my project “[mathspp](https://mathspp.com)”.
 
-[Sponsor me](https://github.com/sponsors/rodrigogiraoserrao).
+If my work has helped you, consider [sponsoring me on GitHub](https://github.com/sponsors/rodrigogiraoserrao).
